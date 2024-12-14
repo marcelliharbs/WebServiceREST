@@ -1,6 +1,6 @@
 ## WebService REST - Avaliação de Filmes 🎥
 
-Projeto desenvolvido para a matéria de Programação Web II na 4° fase do curso de **ciência da Computação**.
+Projeto desenvolvido para a matéria de Programação Web II na 4° fase do curso de **Ciência da Computação**.
 
 O objetivo foi desenvolver um **WebService RESTful** com suporte a persistência de dados e aplicação de um framework de segurança.
 
